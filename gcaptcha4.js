@@ -1,3 +1,4 @@
+console.log(9999)
 qBfLF.$_AG = function () {
   var $_EHGCF = 2;
 
